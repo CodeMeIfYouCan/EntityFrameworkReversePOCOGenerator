@@ -11,8 +11,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PocoGenerator.Utilities", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tester.BusinessLogic", "Tester.BusinessLogic\Tester.BusinessLogic.csproj", "{6B6437F1-3AF2-4358-B0C9-AC6B8F4FAC8B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tester.Integration", "Tester.Integration\Tester.Integration.csproj", "{40AFCB80-1F38-48EA-86EF-D085669FAEA7}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tester.UnitTest", "Tester.UnitTest\Tester.UnitTest.csproj", "{2E764DF9-9742-4228-B3C6-06BFDDA57B7C}"
 EndProject
 Global
@@ -37,10 +35,6 @@ Global
 		{6B6437F1-3AF2-4358-B0C9-AC6B8F4FAC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B6437F1-3AF2-4358-B0C9-AC6B8F4FAC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B6437F1-3AF2-4358-B0C9-AC6B8F4FAC8B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{40AFCB80-1F38-48EA-86EF-D085669FAEA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{40AFCB80-1F38-48EA-86EF-D085669FAEA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{40AFCB80-1F38-48EA-86EF-D085669FAEA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{40AFCB80-1F38-48EA-86EF-D085669FAEA7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2E764DF9-9742-4228-B3C6-06BFDDA57B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2E764DF9-9742-4228-B3C6-06BFDDA57B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E764DF9-9742-4228-B3C6-06BFDDA57B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
