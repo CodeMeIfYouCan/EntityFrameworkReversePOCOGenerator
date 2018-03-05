@@ -1,0 +1,15 @@
+﻿
+{
+  "DbConnectionDetails": [
+    {
+      "Code": "MyDbContext",
+      "ProviderName": "System.Data.SqlClient",
+      "ConnectionString": "server=local; user=***; password=****; database=NorthWindDatabase; pooling=true; Max Pool Size=100; Min Pool Size=8"
+    },
+    {
+      "Code": "MyDbContext2",
+      "ProviderName": "System.Data.SqlClient",
+      "ConnectionString": "server=local; user=*****; password=******; database=NorthWindDatabase; pooling=true; Max Pool Size=100; Min Pool Size=8"
+    }
+  ]
+}
