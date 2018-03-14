@@ -25,3 +25,12 @@ C:\GitHub\New\EntityFramework.Reverse.POCO.Generator\PocoGenerator.Utilities\obj
 C:\GitHub\New\EntityFramework.Reverse.POCO.Generator\PocoGenerator.Utilities\obj\Debug\netcoreapp2.0\PocoGenerator.Utilities.AssemblyInfo.cs
 C:\GitHub\New\EntityFramework.Reverse.POCO.Generator\PocoGenerator.Utilities\obj\Debug\netcoreapp2.0\PocoGenerator.Utilities.dll
 C:\GitHub\New\EntityFramework.Reverse.POCO.Generator\PocoGenerator.Utilities\obj\Debug\netcoreapp2.0\PocoGenerator.Utilities.pdb
+C:\GitHub\EntityFrameworkReversePOCOGenerator\PocoGenerator.Utilities\bin\Debug\netcoreapp2.0\PocoGenerator.Utilities.deps.json
+C:\GitHub\EntityFrameworkReversePOCOGenerator\PocoGenerator.Utilities\bin\Debug\netcoreapp2.0\PocoGenerator.Utilities.dll
+C:\GitHub\EntityFrameworkReversePOCOGenerator\PocoGenerator.Utilities\bin\Debug\netcoreapp2.0\PocoGenerator.Utilities.pdb
+C:\GitHub\EntityFrameworkReversePOCOGenerator\PocoGenerator.Utilities\obj\Debug\netcoreapp2.0\PocoGenerator.Utilities.csprojResolveAssemblyReference.cache
+C:\GitHub\EntityFrameworkReversePOCOGenerator\PocoGenerator.Utilities\obj\Debug\netcoreapp2.0\PocoGenerator.Utilities.csproj.CoreCompileInputs.cache
+C:\GitHub\EntityFrameworkReversePOCOGenerator\PocoGenerator.Utilities\obj\Debug\netcoreapp2.0\PocoGenerator.Utilities.AssemblyInfoInputs.cache
+C:\GitHub\EntityFrameworkReversePOCOGenerator\PocoGenerator.Utilities\obj\Debug\netcoreapp2.0\PocoGenerator.Utilities.AssemblyInfo.cs
+C:\GitHub\EntityFrameworkReversePOCOGenerator\PocoGenerator.Utilities\obj\Debug\netcoreapp2.0\PocoGenerator.Utilities.dll
+C:\GitHub\EntityFrameworkReversePOCOGenerator\PocoGenerator.Utilities\obj\Debug\netcoreapp2.0\PocoGenerator.Utilities.pdb
