@@ -813,7 +813,8 @@ private DbProviderFactory GetDbProviderFactory()
 
         // This relationship has multiple composite keys
 
-        // childTable FK columns are exactly the primary key (they are part of primary key, and no other columns are primary keys) //TODO: we could also check if they are an unique index
+        // childTable FK columns are exactly the primary key (they are part of primary key, and no other columns are primary keys) 
+		//todo:emrahdi we could also check if they are an unique index and generate methods which will take parameters as index fields and executes the query according to these keys
         bool childTableColumnsAllPrimaryKeys = (childTableCols.Count == childTableCols.Count(x => x.IsPrimaryKey)) && (childTableCols.Count == childTable.PrimaryKeys.Count());
 
         // parentTable columns are exactly the primary key (they are part of primary key, and no other columns are primary keys) //TODO: we could also check if they are an unique index

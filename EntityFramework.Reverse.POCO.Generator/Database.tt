@@ -20,7 +20,6 @@
     Settings.DbContextBaseClass = "Microsoft.EntityFrameworkCore.DbContext";   // Specify what the base class is for your DbContext. For ASP.NET Identity use "IdentityDbContext<ApplicationUser>"
     //Settings.DefaultConstructorArgument = "EnvironmentConnectionStrings.MyDbContext"; //defaults to "Name=" + ConnectionStringName
     Settings.ConfigurationClassName = "Configuration"; // Configuration, Mapping, Map, etc. This is appended to the Poco class name to configure the mappings.
-    //todo: toBeDeleted FilenameSearchOrder = new[] { "app.config", "web.config" }; // Add more here if required. The config files are searched for in the local project first, then the whole solution second.
     Settings.FilenameSearchOrder = new[] { "pocodbconfiguration.json"}; // Add more here if required. The config files are searched for in the local project first, then the whole solution second.
 	Settings.GenerateSeparateFiles = false;
     Settings.MakeClassesInternal = false;
@@ -102,7 +101,7 @@
     //      2. Add the following to the top of this file and adjust path, and remove the space between the angle bracket and # at the beginning and end.
     //         < #@ assembly name="your full path to \EntityFramework.Contrib.dll" # >
     //      3. Change the line below to: Inflector.PluralizationService = new SpanishPluralizationService();
-    //TODO: Not working
+    //todo: pluralizationHelper.ttinclude is included, but must be modified to use other languages.
 	//Inflector.PluralizationService = new EnglishPluralizationService();
     // If pluralisation does not do the right thing, override it here by adding in a custom entry.
     //Inflector.PluralizationService = new EnglishPluralizationService(new[]
@@ -263,7 +262,7 @@
         //    column.OverrideModifier = true;
         // This will create: public override long id { get; set; }
 
-		//TODO: Not working
+		//todo: Not working
         // Perform Enum property type replacement
         /*var enumDefinition = Settings.EnumDefinitions.FirstOrDefault(e =>
             (e.Schema.Equals(table.Schema, StringComparison.InvariantCultureIgnoreCase)) &&

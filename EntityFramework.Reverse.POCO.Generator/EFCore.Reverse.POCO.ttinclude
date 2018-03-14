@@ -935,7 +935,7 @@ foreach(var s in tbl.ReverseNavigationProperty.OrderBy(x => x.Definition))
         <#=s.Definition #>
 <# } } #>
 
-//TODO: Deleted foreign key rows from here
+//todo: Deleted foreign key rows from here!!!!!!!!!!!!!!!
 
 <#
 if (!Settings.UsePropertyInitializers){
@@ -1008,7 +1008,7 @@ foreach(var col in tbl.Columns.Where(x => !x.Hidden && !string.IsNullOrEmpty(x.C
 
 
 
-//TODO: Deleted foreign key and relation mapping configuration rows from here
+//todo: Deleted foreign key and relation mapping configuration rows from here!!!!!!!!!!!!!
 
 
 <#if(Settings.MakeClassesPartial) {#>
