@@ -24,3 +24,14 @@ C:\GitHub\New\EntityFramework.Reverse.POCO.Generator\Tester.BusinessLogic\bin\De
 C:\GitHub\New\EntityFramework.Reverse.POCO.Generator\Tester.BusinessLogic\obj\Debug\netcoreapp2.0\Tester.BusinessLogic.csprojResolveAssemblyReference.cache
 C:\GitHub\New\EntityFramework.Reverse.POCO.Generator\Tester.BusinessLogic\obj\Debug\netcoreapp2.0\Tester.BusinessLogic.dll
 C:\GitHub\New\EntityFramework.Reverse.POCO.Generator\Tester.BusinessLogic\obj\Debug\netcoreapp2.0\Tester.BusinessLogic.pdb
+C:\GitHub\EntityFrameworkReversePOCOGenerator\Tester.BusinessLogic\bin\Debug\netcoreapp2.0\Tester.BusinessLogic.deps.json
+C:\GitHub\EntityFrameworkReversePOCOGenerator\Tester.BusinessLogic\bin\Debug\netcoreapp2.0\Tester.BusinessLogic.dll
+C:\GitHub\EntityFrameworkReversePOCOGenerator\Tester.BusinessLogic\bin\Debug\netcoreapp2.0\Tester.BusinessLogic.pdb
+C:\GitHub\EntityFrameworkReversePOCOGenerator\Tester.BusinessLogic\bin\Debug\netcoreapp2.0\EntityFramework.Reverse.POCO.Generator.dll
+C:\GitHub\EntityFrameworkReversePOCOGenerator\Tester.BusinessLogic\bin\Debug\netcoreapp2.0\EntityFramework.Reverse.POCO.Generator.pdb
+C:\GitHub\EntityFrameworkReversePOCOGenerator\Tester.BusinessLogic\obj\Debug\netcoreapp2.0\Tester.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\GitHub\EntityFrameworkReversePOCOGenerator\Tester.BusinessLogic\obj\Debug\netcoreapp2.0\Tester.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\GitHub\EntityFrameworkReversePOCOGenerator\Tester.BusinessLogic\obj\Debug\netcoreapp2.0\Tester.BusinessLogic.AssemblyInfoInputs.cache
+C:\GitHub\EntityFrameworkReversePOCOGenerator\Tester.BusinessLogic\obj\Debug\netcoreapp2.0\Tester.BusinessLogic.AssemblyInfo.cs
+C:\GitHub\EntityFrameworkReversePOCOGenerator\Tester.BusinessLogic\obj\Debug\netcoreapp2.0\Tester.BusinessLogic.dll
+C:\GitHub\EntityFrameworkReversePOCOGenerator\Tester.BusinessLogic\obj\Debug\netcoreapp2.0\Tester.BusinessLogic.pdb
