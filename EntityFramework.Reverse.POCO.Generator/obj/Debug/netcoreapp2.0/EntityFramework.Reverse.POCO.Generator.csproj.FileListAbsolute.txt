@@ -7,12 +7,3 @@ C:\GitHub\New\EntityFramework.Reverse.POCO.Generator\EntityFramework.Reverse.POC
 C:\GitHub\New\EntityFramework.Reverse.POCO.Generator\EntityFramework.Reverse.POCO.Generator\obj\Debug\netcoreapp2.0\EntityFramework.Reverse.POCO.Generator.csprojResolveAssemblyReference.cache
 C:\GitHub\New\EntityFramework.Reverse.POCO.Generator\EntityFramework.Reverse.POCO.Generator\obj\Debug\netcoreapp2.0\EntityFramework.Reverse.POCO.Generator.dll
 C:\GitHub\New\EntityFramework.Reverse.POCO.Generator\EntityFramework.Reverse.POCO.Generator\obj\Debug\netcoreapp2.0\EntityFramework.Reverse.POCO.Generator.pdb
-C:\GitHub\EntityFrameworkReversePOCOGenerator\EntityFramework.Reverse.POCO.Generator\bin\Debug\netcoreapp2.0\EntityFramework.Reverse.POCO.Generator.deps.json
-C:\GitHub\EntityFrameworkReversePOCOGenerator\EntityFramework.Reverse.POCO.Generator\bin\Debug\netcoreapp2.0\EntityFramework.Reverse.POCO.Generator.dll
-C:\GitHub\EntityFrameworkReversePOCOGenerator\EntityFramework.Reverse.POCO.Generator\bin\Debug\netcoreapp2.0\EntityFramework.Reverse.POCO.Generator.pdb
-C:\GitHub\EntityFrameworkReversePOCOGenerator\EntityFramework.Reverse.POCO.Generator\obj\Debug\netcoreapp2.0\EntityFramework.Reverse.POCO.Generator.csprojResolveAssemblyReference.cache
-C:\GitHub\EntityFrameworkReversePOCOGenerator\EntityFramework.Reverse.POCO.Generator\obj\Debug\netcoreapp2.0\EntityFramework.Reverse.POCO.Generator.csproj.CoreCompileInputs.cache
-C:\GitHub\EntityFrameworkReversePOCOGenerator\EntityFramework.Reverse.POCO.Generator\obj\Debug\netcoreapp2.0\EntityFramework.Reverse.POCO.Generator.AssemblyInfoInputs.cache
-C:\GitHub\EntityFrameworkReversePOCOGenerator\EntityFramework.Reverse.POCO.Generator\obj\Debug\netcoreapp2.0\EntityFramework.Reverse.POCO.Generator.AssemblyInfo.cs
-C:\GitHub\EntityFrameworkReversePOCOGenerator\EntityFramework.Reverse.POCO.Generator\obj\Debug\netcoreapp2.0\EntityFramework.Reverse.POCO.Generator.dll
-C:\GitHub\EntityFrameworkReversePOCOGenerator\EntityFramework.Reverse.POCO.Generator\obj\Debug\netcoreapp2.0\EntityFramework.Reverse.POCO.Generator.pdb
